@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wx/Dropbox/ETH/algolab/week3/lab3/lab3.cpp
+CGAL/Exact_predicates_exact_constructions_kernel.h
+-
+CGAL/Min_circle_2.h
+-
+CGAL/Min_circle_2_traits_2.h
+-
+iostream
+-
+stdexcept
+-
+cmath
+-
+type_traits
+-
+CGAL/intersections.h
+-
+

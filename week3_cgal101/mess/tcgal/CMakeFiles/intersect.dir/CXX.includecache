@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wx/Desktop/tcgal/intersect.cpp
+CGAL/Exact_predicates_exact_constructions_kernel.h
+-
+iostream
+-
+stdexcept
+-
+

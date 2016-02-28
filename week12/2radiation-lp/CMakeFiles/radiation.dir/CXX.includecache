@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/algolab/host/week12/2radiation-lp/radiation.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+iostream
+-
+cassert
+-
+cmath
+-
+CGAL/basic.h
+-
+CGAL/QP_models.h
+-
+CGAL/QP_functions.h
+-
+CGAL/Gmpzf.h
+-
+CGAL/MP_Float.h
+-
+
